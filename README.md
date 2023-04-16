@@ -1,4 +1,7 @@
 # Rock Paper Scissors
 Rock Paper Scissors Game Using Python 
 
-Simple and fun !
+Play against the Computer and have fun.
+fun !
+
+See yaa !
